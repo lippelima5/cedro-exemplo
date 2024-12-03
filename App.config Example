@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key ="host" value ="datafeed1.cedrotech.com" />
+		<add key ="port" value ="81" />
+		<add key ="key" value ="" />
+		<add key ="username" value ="efdias" />
+		<add key ="password" value ="Skt@8515" />
+	</appSettings>
+</configuration>
