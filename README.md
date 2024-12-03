@@ -44,7 +44,7 @@ Antes de executar o código, você deve configurar as informações de conexão 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/cedro-telnet-exemplo.git
+   git clone https://github.com/lippelima5/cedro-exemplo
    ```
 
 2. Abra o projeto em um editor C# ou no Visual Studio.
